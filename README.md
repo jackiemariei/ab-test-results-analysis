@@ -44,6 +44,7 @@ These results support the treatment page within the scope of this experiment. Fu
 ## Project Files
 
 - `Analyze_ab_test_results_notebook_new.ipynb`: Jupyter Notebook containing the analysis and code.
+- `\ab_data.csv`: Dataset used for the A/B test analysis.
 - `Analyze_ab_test_results_notebook_new (4).html`: HTML version of the notebook.
 - `analyze-a_b-test-results.pdf`: PDF report summarizing the experiment and findings.
 
